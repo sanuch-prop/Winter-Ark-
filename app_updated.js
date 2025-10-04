@@ -3145,7 +3145,7 @@ function defaultDayTasks(dayIndex) {
     { id:'wash', title:'умылся и зубы почистил', count:true },
     { id:'coffee', title:'собрался и сделал кофе', count:true },
     { id:'supps', title:'выпил таблетки и бады', count:true },
-    { id:'goout', title:'вышел на улицу на тренировку', count:true },
+    { id:'goout', title:'приехал на ренировку ', count:true },
     { id:'am_training', title: morningLabel(dayIndex), sub: formatTraining(morningPlanItems(dayIndex)), count:true },
     { id:'coldshower_am', title:'пришел с тренировки и искупался в холодной воде', count:true },
     { id:'meal1', title:'Покушал: рис 300 г варёного + куриное филе 400 г (в сыром виде) + рыба 200 г (в сыром виде) + 3 яйца варёных', count:true },
